@@ -32,4 +32,4 @@ end
 allplots[6]
 
 plot(ps..., size=(800, 500))
-plot(composed..., size=(800, 500))
+plot(composeds..., size=(800, 500))
