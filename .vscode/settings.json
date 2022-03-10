@@ -27,8 +27,8 @@
     "en-GB-9-0."
   ],
   "spellright.documentTypes": [
-    "markdown",
     "latex",
-    "plaintext"
+    "plaintext",
+    "markdown"
   ],
 }
