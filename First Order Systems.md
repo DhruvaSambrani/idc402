@@ -1,4 +1,4 @@
-# One Dimensional Maps
+# First Order Systems
 
 $$\left\{\frac{dx_i}{dt} = f_i([x_j])\right\}$$
 
